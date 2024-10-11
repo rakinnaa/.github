@@ -4,7 +4,10 @@
 
 > Your digital fortress for safeguarding secrets. Securely store and manage your passwords, ensuring peace of mind in an ever-connected world.
 
+> # In Sinhalese, the word ‘Rakinnaa’ translates to ‘The Guardian’ or ‘The Protector’.
+
 <br>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
